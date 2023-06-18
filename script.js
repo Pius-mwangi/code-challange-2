@@ -1,13 +1,12 @@
 // Function to check car speed and demerit points
-function checkSpeed() {
-    // Prompt the user for car speed input
-    let carSpeed = prompt("INPUT CAR SPEED HERE!");
+function Solution() {
+// Prompt the user for car speed input
+  let carSpeed = prompt("INPUT CAR SPEED HERE!");
   
-    // Define the demerit points threshold and speed limit
-    let points = 12;
-    let limit = 70;
+ // Define the demerit points threshold and speed limit
+  let points = 12;    let limit = 70;
   
-    // Calculate the difference between car speed and limit
+  // Calculate the difference between car speed and limit
     let counter = carSpeed - limit;
   
     // Calculate the demerit points per km/h over the limit
@@ -30,4 +29,4 @@ function checkSpeed() {
   }
   
   // Call the function to execute the code
-  checkSpeed();
+  Solution();
