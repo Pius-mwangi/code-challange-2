@@ -1,7 +1,7 @@
 // Function to check car speed and demerit points
 function checkSpeed() {
     // Prompt the user for car speed input
-    let carSpeed = parseInt(prompt("INPUT CAR SPEED HERE!"));
+    let carSpeed = prompt("INPUT CAR SPEED HERE!");
   
     // Define the demerit points threshold and speed limit
     let points = 12;
