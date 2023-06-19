@@ -1,16 +1,16 @@
 # code-challange-2
 # Speed Limit Checker
 
-## Description
+# Description
 
 The Speed Limit Checker is a JavaScript code that prompts the user to input the speed of a car and checks if it exceeds the speed limit. It calculates the number of demerit points accumulated and determines if the driver's license should be suspended based on a demerit point threshold.
 
-## Project Setup
+# Project Setup
 
 To use the Speed Limit Checker, follow these steps:
 
-1. Clone or download the code from the repository.
-2. Open the JavaScript code in your preferred development environment or browser console.
+1.Download or clone the project repository.   
+2. Open the script.html file in a web browser. 
 3. Run the code.
 4. Enter the speed of the car when prompted.
 5. The program will output one of the following:
